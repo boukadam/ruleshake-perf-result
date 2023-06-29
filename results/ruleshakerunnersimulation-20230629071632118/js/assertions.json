@@ -1,0 +1,10 @@
+{
+  "simulation": "com.ruleshake.perf.RuleShakeRunnerSimulation",
+  "simulationId": "ruleshakerunnersimulation-20230629071632118",
+  "start": 1688022992559,
+  "description": "",
+  "scenarios": ["Load Test Creating Customers"],
+  "assertions": [
+
+  ]
+}
